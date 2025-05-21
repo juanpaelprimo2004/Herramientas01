@@ -1,0 +1,10 @@
+C:\Users\juans\OneDrive\Escritorio\MATERIAS\H-programación\Herramientas01\TiendaDeLibros\bin\Debug\TiendaDeLibros.exe.config
+C:\Users\juans\OneDrive\Escritorio\MATERIAS\H-programación\Herramientas01\TiendaDeLibros\bin\Debug\TiendaDeLibros.exe
+C:\Users\juans\OneDrive\Escritorio\MATERIAS\H-programación\Herramientas01\TiendaDeLibros\bin\Debug\TiendaDeLibros.pdb
+C:\Users\juans\OneDrive\Escritorio\MATERIAS\H-programación\Herramientas01\TiendaDeLibros\obj\Debug\TiendaDeLibros.csproj.AssemblyReference.cache
+C:\Users\juans\OneDrive\Escritorio\MATERIAS\H-programación\Herramientas01\TiendaDeLibros\obj\Debug\TiendaDeLibros.Form1.resources
+C:\Users\juans\OneDrive\Escritorio\MATERIAS\H-programación\Herramientas01\TiendaDeLibros\obj\Debug\TiendaDeLibros.Properties.Resources.resources
+C:\Users\juans\OneDrive\Escritorio\MATERIAS\H-programación\Herramientas01\TiendaDeLibros\obj\Debug\TiendaDeLibros.csproj.GenerateResource.cache
+C:\Users\juans\OneDrive\Escritorio\MATERIAS\H-programación\Herramientas01\TiendaDeLibros\obj\Debug\TiendaDeLibros.csproj.CoreCompileInputs.cache
+C:\Users\juans\OneDrive\Escritorio\MATERIAS\H-programación\Herramientas01\TiendaDeLibros\obj\Debug\TiendaDeLibros.exe
+C:\Users\juans\OneDrive\Escritorio\MATERIAS\H-programación\Herramientas01\TiendaDeLibros\obj\Debug\TiendaDeLibros.pdb

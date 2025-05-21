@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\juans\\OneDrive\\Escritorio\\MATERIAS\\H-programaci\u00F3n\\Herramientas01\\TiendaDeLibros\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8E538E69-E296-401B-B740-AAF2624BC8BE}|TiendaDeLibros.csproj|c:\\users\\juans\\onedrive\\escritorio\\materias\\h-programaci\u00F3n\\herramientas01\\tiendadelibros\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E538E69-E296-401B-B740-AAF2624BC8BE}|TiendaDeLibros.csproj|solutionrelative:persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E538E69-E296-401B-B740-AAF2624BC8BE}|TiendaDeLibros.csproj|c:\\users\\juans\\onedrive\\escritorio\\materias\\h-programaci\u00F3n\\herramientas01\\tiendadelibros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E538E69-E296-401B-B740-AAF2624BC8BE}|TiendaDeLibros.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8E538E69-E296-401B-B740-AAF2624BC8BE}|TiendaDeLibros.csproj|c:\\users\\juans\\onedrive\\escritorio\\materias\\h-programaci\u00F3n\\herramientas01\\tiendadelibros\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8E538E69-E296-401B-B740-AAF2624BC8BE}|TiendaDeLibros.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\juans\\OneDrive\\Escritorio\\MATERIAS\\H-programaci\u00F3n\\Herramientas01\\TiendaDeLibros\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\juans\\OneDrive\\Escritorio\\MATERIAS\\H-programaci\u00F3n\\Herramientas01\\TiendaDeLibros\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:15:56.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\juans\\OneDrive\\Escritorio\\MATERIAS\\H-programaci\u00F3n\\Herramientas01\\TiendaDeLibros\\Persona.cs",
+              "RelativeDocumentMoniker": "Persona.cs",
+              "ToolTip": "C:\\Users\\juans\\OneDrive\\Escritorio\\MATERIAS\\H-programaci\u00F3n\\Herramientas01\\TiendaDeLibros\\Persona.cs",
+              "RelativeToolTip": "Persona.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T04:12:35.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\juans\\OneDrive\\Escritorio\\MATERIAS\\H-programaci\u00F3n\\Herramientas01\\TiendaDeLibros\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\juans\\OneDrive\\Escritorio\\MATERIAS\\H-programaci\u00F3n\\Herramientas01\\TiendaDeLibros\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-21T03:42:35.789Z",
               "EditorCaption": ""

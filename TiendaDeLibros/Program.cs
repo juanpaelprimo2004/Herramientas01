@@ -17,6 +17,10 @@ namespace TiendaDeLibros
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+            Persona persona = new Persona("Marlon");
+            Persona pablo = new Persona("Pablo"); 
+            Console.WriteLine("el nombre de la persona es" + pablo.Nombre); 
         }
     }
 }
